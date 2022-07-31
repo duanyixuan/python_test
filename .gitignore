@@ -1,0 +1,3 @@
+# to ignore sublimetext config file
+*.sublime-project
+*.sublime-workspace
